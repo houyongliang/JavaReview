@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaReview.iml" filepath="$PROJECT_DIR$/JavaReview.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appqqqq/appqqqq.iml" filepath="$PROJECT_DIR$/appqqqq/appqqqq.iml" />
       <module fileurl="file://$PROJECT_DIR$/eventbuddemo/eventbuddemo.iml" filepath="$PROJECT_DIR$/eventbuddemo/eventbuddemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiguangtuisong/jiguangtuisong.iml" filepath="$PROJECT_DIR$/jiguangtuisong/jiguangtuisong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lrucachedemo/lrucachedemo.iml" filepath="$PROJECT_DIR$/lrucachedemo/lrucachedemo.iml" />
     </modules>
   </component>
 </project>

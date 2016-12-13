@@ -1,1 +1,1 @@
-include ':app', ':jiguangtuisong', ':example', ':eventbuddemo'
+include ':app', ':jiguangtuisong', ':example', ':eventbuddemo', ':lrucachedemo', ':appqqqq'
