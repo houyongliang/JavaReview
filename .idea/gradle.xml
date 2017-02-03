@@ -8,12 +8,18 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidSystemUiTraining-master" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/appqqqq" />
+            <option value="$PROJECT_DIR$/drawablelayoutdemo" />
+            <option value="$PROJECT_DIR$/drawablelayoutdemo2" />
             <option value="$PROJECT_DIR$/eventbuddemo" />
             <option value="$PROJECT_DIR$/example" />
             <option value="$PROJECT_DIR$/jiguangtuisong" />
+            <option value="$PROJECT_DIR$/leakcanarydemo" />
             <option value="$PROJECT_DIR$/lrucachedemo" />
+            <option value="$PROJECT_DIR$/mvpdemo" />
+            <option value="$PROJECT_DIR$/toolbardemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

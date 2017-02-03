@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:id="@+id/myDrawer"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/hideLayout"
+        >
+
+        <!-- 顶部栏 -->
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:minHeight="?attr/actionBarSize"
+            android:fitsSystemWindows="true"
+            android:id="@+id/mToolBar"
+            android:popupTheme="@style/Widget.AppCompat.ActionBar"
+            app:theme="@style/Widget.AppCompat.Light.ActionBar"
+            >
+
+        </android.support.v7.widget.Toolbar>
+
+        <!-- 用于加载导航栏的容器 -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:id="@+id/frame"
+            android:layout_height="match_parent">
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <!-- 导航栏的设置 此处可设置导航栏头部布局及菜单布局-->
+    <android.support.design.widget.NavigationView
+        android:id="@+id/nav"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#ffffff"
+        app:headerLayout="@layout/header"
+        app:menu="@menu/nav_menu"
+        android:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        >
+
+
+    </android.support.design.widget.NavigationView>
+
+</android.support.v4.widget.DrawerLayout>

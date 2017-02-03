@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidSystemUiTraining-master/AndroidSystemUiTraining-master.iml" filepath="$PROJECT_DIR$/AndroidSystemUiTraining-master/AndroidSystemUiTraining-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReview.iml" filepath="$PROJECT_DIR$/JavaReview.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/appqqqq/appqqqq.iml" filepath="$PROJECT_DIR$/appqqqq/appqqqq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawablelayoutdemo/drawablelayoutdemo.iml" filepath="$PROJECT_DIR$/drawablelayoutdemo/drawablelayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawablelayoutdemo2/drawablelayoutdemo2.iml" filepath="$PROJECT_DIR$/drawablelayoutdemo2/drawablelayoutdemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eventbuddemo/eventbuddemo.iml" filepath="$PROJECT_DIR$/eventbuddemo/eventbuddemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiguangtuisong/jiguangtuisong.iml" filepath="$PROJECT_DIR$/jiguangtuisong/jiguangtuisong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leakcanarydemo/leakcanarydemo.iml" filepath="$PROJECT_DIR$/leakcanarydemo/leakcanarydemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lrucachedemo/lrucachedemo.iml" filepath="$PROJECT_DIR$/lrucachedemo/lrucachedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbardemo/toolbardemo.iml" filepath="$PROJECT_DIR$/toolbardemo/toolbardemo.iml" />
     </modules>
   </component>
 </project>

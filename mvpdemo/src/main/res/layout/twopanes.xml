@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <fragment
+        android:id="@+id/headlines"
+        android:layout_width="400dp"
+        android:layout_height="match_parent"
+        android:name="com.fnfh.mvp.login.BlankFragment"
+        android:layout_marginRight="10dp"
+        />
+    <fragment
+        android:id="@+id/article"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:name="com.fnfh.mvp.login.AitFragment"
+        android:layout_marginRight="10dp"
+        />
+
+
+</LinearLayout>

@@ -1,1 +1,1 @@
-include ':app', ':jiguangtuisong', ':example', ':eventbuddemo', ':lrucachedemo', ':appqqqq'
+include ':app', ':jiguangtuisong', ':example', ':eventbuddemo', ':lrucachedemo', ':appqqqq', ':mvpdemo', ':toolbardemo', ':toolbardemo', ':AndroidSystemUiTraining-master', ':drawablelayoutdemo', ':drawablelayoutdemo2', ':leakcanarydemo'
